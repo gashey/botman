@@ -1,5 +1,5 @@
 {
-    "name": "botman/botman",
+    "name": "gashey/botman",
     "license": "MIT",
     "description": "Create messaging bots in PHP with ease.",
     "keywords": [
@@ -7,11 +7,15 @@
         "BotMan",
         "Chatbot"
     ],
-    "homepage": "http://github.com/botman/botman",
+    "homepage": "https://github.com/gashey/botman",
     "authors": [
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "George Hagan",
+            "email": "georgekhagan@gmail.com"
         }
     ],
     "require": {
